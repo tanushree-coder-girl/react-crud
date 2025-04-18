@@ -16,7 +16,7 @@ This is my **first CRUD application** which I made while learning **React**.
 
 ## Screenshot
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](./crud.png)
 
 ## How to Run
 
